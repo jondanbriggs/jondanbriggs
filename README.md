@@ -2,7 +2,7 @@
 
 <h2>☁️  Cloud Projects:</h2>
 
-- <b>Word Press Website (AWS)</b>
+- <b>Word Press Application (AWS)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Security Monitor (Azure)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
