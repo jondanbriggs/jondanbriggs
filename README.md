@@ -1,24 +1,27 @@
-<h1>Welcome, I'm Jon! <br/> <a href="https://www.linkedin.com/in/jonbriggsjr">Network Engineer</a>, <a href="https://github.com/jondanbriggs">Cloud Novice</a>,<a href="https://www.linkedin.com/in/jonbriggsjr"> U.S. Marine</a>
+<h1>Welcome, I'm Jon! <br/> <a href="https://www.linkedin.com/in/jonbriggsjr">Network Engineer</a>, <a href="https://github.com/jondanbriggs">Cloud & Cybersecurity Novice</a>,<a href="https://www.linkedin.com/in/jonbriggsjr"> U.S. Marine</a>
 
 <h2>☁️  Cloud Projects:</h2>
 
-- <b>Application Migration Service (AWS)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Virtual Private Cloud & Firewall (AWS)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>WordPress Application (AWS)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Severless Web Application (AWS)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Customer Service AI Chatbot (AWS)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Azure Sentinal (Azure)</b>
-  - [Security Information and Event Monitor](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Active Directory (Azure)</b>
-  - [Proof of Concept Lab](https://github.com/jondanbriggs/Azure-AD-Lab) <b><i></b></i>
+- <b>Amazon Web Service</b>
+  - [Application Migration Service](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Virtual Private Cloud & Firewall](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [WordPress Application](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Severless Web Application](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Customer Service AI Chatbot](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b>Microsoft Azure</b>
+  - [Active Directory](https://github.com/jondanbriggs/Azure-AD-Lab) <b><i></b></i>
+
+- <b>Kubernetes Docker</b>
+  - [Active Directory](https://github.com/jondanbriggs/Azure-AD-Lab) <b><i></b></i>
 
 
+<h2>🔒 CyberSecurity Projects:</h2>
 
+- <b>Azure Sentinal</b>
+  - [Security Information and Event Monitor](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  
+- <b>Lenode Penatration Testing</b>
  
 <h2>👨‍💻 Network Automation Projects:</h2>
 
