@@ -7,7 +7,7 @@
 - <b>Security Monitor (Azure)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Active Directory (Azure)</b>
-  - [Image Analysis Middleware]() <b><i>(Potentially NSFW)</b></i>
+  - [Proof of Concept Lab](https://github.com/jondanbriggs/Azure-AD-Lab) <b><i></b></i>
 - <b>(ICS)^2 Certified Cloud Security Professional</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
