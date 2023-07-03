@@ -15,13 +15,6 @@
 - <b>Kubernetes Docker</b>
   - [Active Directory](https://github.com/jondanbriggs/Azure-AD-Lab) <b><i></b></i>
 
-
-<h2>🔒 CyberSecurity Projects:</h2>
-
-- <b>Azure Sentinal</b>
-  - [Security Information and Event Monitor](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-  
-- <b>Lenode Penatration Testing</b>
  
 <h2>👨‍💻 Network Automation Projects: (Coming Soon)</h2>
 
