@@ -2,14 +2,14 @@
 
 <h2>☁️  Cloud Projects:</h2>
 
-- <b>Amazon Web Service</b>
+- <b>Security</b>
   - [Application Migration Service](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Virtual Private Cloud & Firewall](https://github.com/joshmadakor1/Algorithms-Practice)
   - [WordPress Application](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Severless Web Application](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Customer Service AI Chatbot](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- <b>Microsoft Azure</b>
+- <b>Applications</b>
   - [Active Directory](https://github.com/jondanbriggs/Azure-AD-Lab) <b><i></b></i>
 
 - <b>Kubernetes Docker</b>
@@ -23,14 +23,10 @@
   
 - <b>Lenode Penatration Testing</b>
  
-<h2>👨‍💻 Network Automation Projects:</h2>
+<h2>👨‍💻 Network Automation Projects: (Coming Soon)</h2>
 
-- <b>Ansible</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>JSON</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b></b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
